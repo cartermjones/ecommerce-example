@@ -1,0 +1,14 @@
+1,St. John Chrysostom Old Testament Homilies Vol. 1,Anthology/Byzantine Patristics,1885652658,50.00,1885652658.jpg
+2,Frank Herbert's Dune,Fiction/Science Fiction,9780143111580,12.50,9780143111580.jpg
+3,The Rudder (Pedalion),Byzantine Canon Law,B000R81O7I,1700.00,B000R8107I.jpg
+4,The Mark Twain Collection (Box Set),Fiction/Collection,1788285913,46.64,1788285913.jpg
+5,The Complete Tales and Poems of Edgar Allan Poe,Anthology/Fiction,1435154460,25.00,1435154460.jpg
+6,Bram Stoker's Dracula,Fiction,B00IIASWA4,61.62,B00IIASWA4.jpg
+7,The Essential Galileo,Non-Fiction,B003GEKKYS,41.99,B003GEKKYS.jpg
+8,Sir Isaac Newton's Mathematical Principles of Natural Philosophy and His System of the World (Principia),Non-Fiction/Philosophy,B0084JAHCU,99.98,B0084JAHCU.jpg
+9,Corpus Iuris Civilis,Non-Fiction/Law,1584779780,295.00,1584779780.jpg
+10,The Complete Works of William Shakespeare,Anthology/Fiction,9781626860988,24.22,9781626860988.jpg
+11,Jane Austen: Four Novels,Anthology/Fiction,9781607103110,22.49,9781607103110.jpg
+12,Alice's Adventures in Wonderland and Other Stories,Anthology/Fiction,9781607109334,25.99,9781607109334.jpg
+13,War and Peace,Fiction,1772266086,69.95,1772266086.jpg
+14,The Brothers Karamazov,Fiction,B000BVNXD4,129.95,B000BVNXD4.jpg
