@@ -1,4 +1,4 @@
-# WebProgrammingProject
+# ecommerce-example
 
 This project is a mock e-commerce platform (TheClassics.COM) built with PHP and co-authored by developers David Blackburn and Carter Jones. (The lion's share of the credit goes to David!)
 
