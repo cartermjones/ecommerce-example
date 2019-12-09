@@ -6,6 +6,8 @@ TheClassics.COM implements a shopping cart which is saved and manipulated within
 
 As this is a mock-up, many things proper to an e-commerce platform have been omitted, but it could certainly be built out to be a functioning e-commerce site.
 
+The Project Report in this repository (co-authored by the repository owner and developer David Blackburn) gives more details about the process of developing this particular application.
+
 <b>The Home Page</b>
 
 ![Home Page](screenshots/homepage.png)
